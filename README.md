@@ -4,6 +4,7 @@
 plugins=(
     zsh-autosuggestions
     zsh-interactive-cd
+    zsh-syntax-highlighting
 
     git
     git-prompt
